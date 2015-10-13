@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "babel-core": "5.8.25",
+    "babel-plugin-something": "file:./babel-plugin-something"  
+  }
+}
